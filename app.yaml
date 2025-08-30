@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: cdd
+owner: ndjdkskdkkd
+package: .
